@@ -1,0 +1,8 @@
+
+# Ignore file
+*.idea
+*.vscode
+
+# Igoner folders
+.vscode/
+.idea/
